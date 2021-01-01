@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url("BebasNeue-Regular.ttf");
+}
+@font-face {
+  font-family: 'Special Elite';
+  src: url("SpecialElite-Regular.ttf");
+}
+.title {
+  margin-top: 60px;
+}
+.generator-button {
+  margin-top: 10px;
+  width: 150px;
+  height: 40px;
+  align-self: center;
+  font-size: 60px;
+
+}
+body {
+  background: url('Movies.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.generatetext {
+  font-size: 18px;
+}
+.card {
+  border-radius: 5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1 {
+    font-family: Bebas Neue;
+}
+.simple-web-desc {
+  font-family: 'Special Elite', cursive;
+  margin-top: -10px;
+}
+.movie-insertion-text {
+  font-family: 'Special Elite', cursive;
+}
+h3 {
+  font-family: Bebas Neue;
+}
+.submit-button {
+  background-color: #ffffe0;
+ color: black;
+ padding: 16px 32px;
+ margin: 3px 1.5px;
+ cursor: pointer;
+  font-family: 'Special Elite', cursive;
+  border: 0.2px solid black;
+  border-radius: 2rem;
+}
